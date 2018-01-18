@@ -1,7 +1,7 @@
 package adapters
 
 import (
-	"github.com/PubMatic-OpenWrap/prebid-server/pbs"
+	"github.com/pm-abhinav-sinha/prebid-server/pbs"
 
 	"errors"
 

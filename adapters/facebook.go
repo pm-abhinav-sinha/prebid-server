@@ -11,7 +11,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/PubMatic-OpenWrap/prebid-server/pbs"
+	"github.com/pm-abhinav-sinha/prebid-server/pbs"
 	"github.com/mxmCherry/openrtb"
 	"golang.org/x/net/context/ctxhttp"
 )

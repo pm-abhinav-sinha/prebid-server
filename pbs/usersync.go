@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"errors"
-	"github.com/PubMatic-OpenWrap/prebid-server/ssl"
+	"github.com/pm-abhinav-sinha/prebid-server/ssl"
 	"github.com/golang/glog"
 	"github.com/julienschmidt/httprouter"
 	"github.com/rcrowley/go-metrics"

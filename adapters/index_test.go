@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/PubMatic-OpenWrap/prebid-server/pbs"
+	"github.com/pm-abhinav-sinha/prebid-server/pbs"
 
 	"fmt"
 

@@ -507,7 +507,7 @@ func Status(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
 }
 
 func ServeIndex(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
-	http.ServeFile(w, r, "vendor/github.com/PubMatic-OpenWrap/prebid-server/static/index.html")
+	http.ServeFile(w, r, "vendor/github.com/pm-abhinav-sinha/prebid-server/static/index.html")
 }
 
 type NoCache struct {
@@ -778,7 +778,7 @@ func serve(cfg *config.Configuration) error {
 		)
 	}
 
-	b, err := ioutil.ReadFile("vendor/github.com/PubMatic-OpenWrap/prebid-server/static/pbs_request.json")
+	b, err := ioutil.ReadFile("vendor/github.com/pm-abhinav-sinha/prebid-server/static/pbs_request.json")
 	if err != nil {
 		glog.Errorf("Unable to open pbs_request.json: %v", err)
 	} else {

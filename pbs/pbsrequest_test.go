@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/PubMatic-OpenWrap/prebid-server/cache/dummycache"
+	"github.com/pm-abhinav-sinha/prebid-server/cache/dummycache"
 	"github.com/magiconair/properties/assert"
 )
 

@@ -3,8 +3,8 @@ package adapters
 import (
 	"context"
 	"crypto/tls"
-	"github.com/PubMatic-OpenWrap/prebid-server/pbs"
-	"github.com/PubMatic-OpenWrap/prebid-server/ssl"
+	"github.com/pm-abhinav-sinha/prebid-server/pbs"
+	"github.com/pm-abhinav-sinha/prebid-server/ssl"
 	"net/http"
 	"time"
 )

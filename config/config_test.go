@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/PubMatic-OpenWrap/prebid-server/config"
+	"github.com/pm-abhinav-sinha/prebid-server/config"
 	"github.com/spf13/viper"
 )
 
