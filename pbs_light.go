@@ -23,7 +23,7 @@ import (
 	"github.com/spf13/viper"
 	"github.com/vrischmann/go-metrics-influxdb"
 	"github.com/xeipuuv/gojsonschema"
-	"github.com/xojoc/useragent"
+	"github.com/pm-abhinav-sinha/useragent"
 
 	//	"os"
 	//	"os/signal"
